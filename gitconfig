@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = biancu91@gmail.com
+	name = christian bianculli
